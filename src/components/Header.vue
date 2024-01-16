@@ -74,10 +74,7 @@
 </template>
 
 <script>
-import logo from '@/assets/img/illustration/logo.png'
-
 export default {
-  name: 'Header',
 }
 </script>
 
